@@ -1,6 +1,6 @@
 # K8s
 
-K8s manifest files
+K8s manifest files:
 
 mongo-config.yaml
 
